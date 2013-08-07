@@ -15,3 +15,7 @@ class Example {
     
 }
 ```
+
+Install the JAR file from this project in `${SPRING_HOME}/lib` if you
+are running the `spring` script from the ZIP distro of Spring Boot
+CLI. Or just use `-cp <path-to-jar>` in your `spring run` command.
